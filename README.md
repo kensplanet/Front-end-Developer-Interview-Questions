@@ -43,7 +43,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Explain the importance of standards and standards bodies.
 * What is Flash of Unstyled Content? How do you avoid FOUC?
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
-* Explain some of the pros and cons for CSS animations versus JavaScript animations.
+* ~~Explain some of the pros and cons for CSS animations versus JavaScript animations.~~
 * What does CORS stand for and what issue does it address?
 
 #### HTML Questions:
