@@ -32,6 +32,11 @@ This file contains a number of front-end interview questions that can be used wh
 * Which version control systems are you familiar with?
 * Can you describe your workflow when you create a web page?
 * If you have 5 different stylesheets, how would you best integrate them into the site?
+  * Use LESS/SASS and @import other modularzied stylesheets
+  * Concatenate them into a smaller number of files
+  * Remove duplicates/unused selectors
+  * Compress/minify the CSS
+  * Use tools like grunt-autoprefixer, which parses CSS and adds vendor-prefixed CSS properties using the Can I Use database.
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * How would you optimize a website's assets/resources?
 * How many resources will a browser download from a given domain at a time?
