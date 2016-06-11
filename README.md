@@ -58,6 +58,7 @@ This file contains a number of front-end interview questions that can be used wh
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
+ * https://developer.mozilla.org/en/docs/Web/Guide/HTML/Using_data_attributes 
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
  * http://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies 
