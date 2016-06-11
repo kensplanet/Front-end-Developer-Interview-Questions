@@ -110,6 +110,7 @@ This file contains a number of front-end interview questions that can be used wh
  * http://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work 
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
+ * http://stackoverflow.com/questions/16521471/relation-between-commonjs-amd-and-requirejs 
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
