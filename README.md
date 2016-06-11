@@ -107,6 +107,7 @@ This file contains a number of front-end interview questions that can be used wh
  * https://davidwalsh.name/event-delegate
  * http://stackoverflow.com/questions/1687296/what-is-dom-event-delegation
 * Explain how `this` works in JavaScript
+ * http://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work 
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
