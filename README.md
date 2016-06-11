@@ -93,6 +93,7 @@ This file contains a number of front-end interview questions that can be used wh
 * What does ```* { box-sizing: border-box; }``` do? What are its advantages?
 * List as many values for the display property that you can remember.
 * What's the difference between inline and inline-block?
+ * http://stackoverflow.com/questions/8969381/what-is-the-difference-between-display-inline-and-display-inline-block 
 * What's the difference between a relative, fixed, absolute and statically positioned element?
 * The 'C' in CSS stands for Cascading.  How is priority determined in assigning styles (a few examples)?  How can you use this system to your advantage?
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
