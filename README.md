@@ -121,6 +121,7 @@ This file contains a number of front-end interview questions that can be used wh
 * What's the difference between host objects and native objects?
 * Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * What's the difference between `.call` and `.apply`?
+ * http://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply 
 * Explain `Function.prototype.bind`.
 * When would you use `document.write()`?
 * What's the difference between feature detection, feature inference, and using the UA string?
