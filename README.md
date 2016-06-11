@@ -104,6 +104,8 @@ This file contains a number of front-end interview questions that can be used wh
 #### JS Questions:
 
 * Explain event delegation
+ * https://davidwalsh.name/event-delegate
+ * http://stackoverflow.com/questions/1687296/what-is-dom-event-delegation
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
