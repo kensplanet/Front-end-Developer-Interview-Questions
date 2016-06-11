@@ -45,6 +45,8 @@ This file contains a number of front-end interview questions that can be used wh
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * ~~Explain some of the pros and cons for CSS animations versus JavaScript animations.~~
 * What does CORS stand for and what issue does it address?
+ * https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+ * https://spring.io/understanding/CORS
 
 #### HTML Questions:
 
