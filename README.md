@@ -62,7 +62,8 @@ This file contains a number of front-end interview questions that can be used wh
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
  * http://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies 
-* Describe the difference between `<script>`, `<script async>` and `<script defer>`.
+* Describe the difference between `<script>`, `<script async>` and `<script defer>`.\
+ * http://peter.sh/experiments/asynchronous-and-deferred-javascript-execution-explained/ 
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 * What is progressive rendering?
  * http://stackoverflow.com/questions/33651166/what-is-progressive-rendering 
