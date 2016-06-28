@@ -122,6 +122,7 @@ This file contains a number of front-end interview questions that can be used wh
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
 * What is a closure, and how/why would you use one?
+ * http://stackoverflow.com/questions/111102/how-do-javascript-closures-work 
 * What's a typical use case for anonymous functions?
 * How do you organize your code? (module pattern, classical inheritance?)
 * What's the difference between host objects and native objects?
