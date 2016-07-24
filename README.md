@@ -99,6 +99,8 @@ This file contains a number of front-end interview questions that can be used wh
 * Describe pseudo-elements and discuss what they are used for. 
 * Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
 * What does ```* { box-sizing: border-box; }``` do? What are its advantages?
+ * http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+ * https://css-tricks.com/box-sizing/
 * List as many values for the display property that you can remember.
 * What's the difference between inline and inline-block?
  * http://stackoverflow.com/questions/8969381/what-is-the-difference-between-display-inline-and-display-inline-block 
@@ -134,6 +136,7 @@ This file contains a number of front-end interview questions that can be used wh
  * http://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply 
 * Explain `Function.prototype.bind`.
 * When would you use `document.write()`?
+ * http://javascript.info/tutorial/document-write 
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain AJAX in as much detail as possible.
 * Explain how JSONP works (and how it's not really AJAX).
