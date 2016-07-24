@@ -42,6 +42,7 @@ This file contains a number of front-end interview questions that can be used wh
 * If you could master one technology this year, what would it be?
 * Explain the importance of standards and standards bodies.
 * ~~What is Flash of Unstyled Content? How do you avoid FOUC?~~
+ * http://www.techrepublic.com/blog/web-designer/how-to-prevent-flash-of-unstyled-content-on-your-websites/ 
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * ~~Explain some of the pros and cons for CSS animations versus JavaScript animations.~~
 * What does CORS stand for and what issue does it address?
