@@ -45,6 +45,8 @@ This file contains a number of front-end interview questions that can be used wh
  * http://www.techrepublic.com/blog/web-designer/how-to-prevent-flash-of-unstyled-content-on-your-websites/ 
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * ~~Explain some of the pros and cons for CSS animations versus JavaScript animations.~~
+  * https://developers.google.com/web/fundamentals/design-and-ui/animations/css-vs-javascript?hl=en
+  * https://davidwalsh.name/css-js-animation
 * What does CORS stand for and what issue does it address?
  * https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
  * https://spring.io/understanding/CORS
